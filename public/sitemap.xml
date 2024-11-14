@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home page -->
+  <url>
+    <loc>http://localhost:5173/</loc>
+    <lastmod>2024-11-13</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About page -->
+  <url>
+    <loc>http://localhost:5173/about</loc>
+    <lastmod>2024-11-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact page -->
+  <url>
+    <loc>http://localhost:5173/contact</loc>
+    <lastmod>2024-11-13</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Services page -->
+  <url>
+    <loc>http://localhost:5173/services</loc>
+    <lastmod>2024-11-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Portfolio page -->
+  <url>
+    <loc>http://localhost:5173/portfolio</loc>
+    <lastmod>2024-11-13</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+   <!-- Blogs page -->
+  <url>
+    <loc>http://localhost:5173/Blogs</loc>
+    <lastmod>2024-11-13</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
