@@ -92,8 +92,8 @@ const Home = () => {
       {/* Hero section END */}
 
       {/* About section START */}
-      <div className="flex flex-col md:flex-row items-center justify-center px-52 py-10 bg-secondary">
-        <div className="flex flex-col items-center justify-center">
+      <div className="flex flex-col md:flex-row items-center justify-center px-8 py-10 bg-secondary">
+        <div className="flex flex-col items-center justify-center w-full md:w-1/2 mx-4">
           <img
             src={MaskGroupImage}
             alt=""
@@ -101,7 +101,7 @@ const Home = () => {
           />
         </div>
 
-        <div className="flex flex-col items-start justify-center px-5">
+        <div className="flex flex-col items-start justify-center mx-4 px-5 w-full md:w-1/2">
           <SectionTitle
             breadcrumb="We are here"
             sectionTitle="One of the Fastest Way to Business Growth"
@@ -149,8 +149,8 @@ const Home = () => {
       {/* Planning section END */}
 
       {/* What we do section START */}
-      <div className="flex flex-col md:flex-row items-center justify-center px-52 py-10 bg-secondary">
-        <div className="flex flex-col items-center justify-center">
+      <div className="flex flex-col md:flex-row items-center justify-center px-8 py-10 bg-secondary">
+        <div className="flex flex-col items-center justify-center w-full md:w-1/2 mx-4">
           <img
             src={MaskGroupImage}
             alt=""
@@ -158,7 +158,7 @@ const Home = () => {
           />
         </div>
 
-        <div className="flex flex-col items-start justify-center px-5">
+        <div className="flex flex-col items-start justify-center mx-4 px-5 w-full md:w-1/2">
           <SectionTitle
             breadcrumb="What We Do"
             sectionTitle="We Develope Product That People Love to Use."
